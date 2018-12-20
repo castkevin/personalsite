@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #393e46;
+
+
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Lobster', cursive;
+  font-size: 562.5%;
+  color: white;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+color: #393e46;
+font-size: 2.5rem;
+}
+
+
+
+/**************CLASS SELECTORS*********************/
+.top-container {
+  background-color: #222831;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.middle-container {
+background-color: white;
+position: relative;
+top: 0;
+padding-bottom: 0px;
+padding-top: 0px;
+
+line-height: 15px;
+}
+
+.bottom-container {
+background-color: #222831;
+position: relative;
+bottom: 0;
+width: 100%;
+height: 110px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+
+
+}
+
+
+.profile {
+
+
+height: 500px;
+
+}
+
+.profile-image {
+
+  padding-top: 50px;
+}
+
+.goals {
+
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 1;
+
+}
+
+.goals-img {
+width: 15%;
+float: left;
+margin-right: 40px;
+}
+
+.skills {
+ width: 50%;
+ text-align: left;
+ margin: 100px auto 100px auto;
+ line-height: 1;
+
+}
+
+.skills-img {
+width: 15%;
+float: right;
+margin-bottom: 0px;
+
+}
+
+.freelance {
+
+padding-bottom: 50px;
+
+}
+
+.footer-link {
+
+  color: #222831;
+}
+
+.btn {
+
+  color: #393e46;
+  font-size: 2rem;
+}
+
+.cloud1 { position: relative;
+bottom: 40px;
+right: 200px;
+}
+
+
+.cloud3 { position: relative;
+left: 100px;
+}
+
+.profile-description {
+
+  padding-bottom: 20px;
+}
+
+/******************ID SELECTORS**************************/
